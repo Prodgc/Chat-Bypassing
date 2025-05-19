@@ -1,18 +1,34 @@
-\___ // KEY SYSTEM \\ ___/!
+\___ // KEY SYSTEM \\ ___/
 ? Key_System = *TRUE*
 ? Key = "bacon21"  //ASCII
 
-\___ // SCRIPT INFO \\ ___/!
+\___ // SCRIPT INFO \\ ___/
 ? SV_version = "1.0.0"
 ? SL_language = "slovenski"
 
-\___ // BLACKLISTED \\ ___/!
+\___ // BLACKLISTED \\ ___/
 ? HWID = "9832J-492H-OIUE87"
 
-\___ // REPLACEMENTS \\ ___/!
+\___ // REPLACEMENTS \\ ___/
 + "hello" ==> "world"
 + "black" ==> "white"
 + "test" ==> "123"
 + "my life" ==> "my rules"
 + "WSPACE" ==> "\n"
 + "star" ==> "⭐"
+
+\___ // TAB PHRASES \\ ___/
+1# "ima phrase from sentence tab"
+1# "touch me uwu"
+1# "time is coloring, black and white"
+
+2# "hello from woman tab"
+2# "slayy nig-"
+
+\___ // DISCORD LINK \\ ___/
+// discord.gg/TH57N62cCp
+
+\___ // SCRIPT DEVS \\ ___/
+- 1315686989638533224
+- 1320066248104607807
+- 1361387222925967430
