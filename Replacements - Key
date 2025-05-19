@@ -1,5 +1,13 @@
-Key = "98/97/99/111/110/50/49"  //ASCII
+\___ // KEY SYSTEM \\ ___/!
+? Key_System = *TRUE*
+? Key = "bacon21"  //ASCII
 
-? "hello" *=2* "test",
-? "word" *=2* "tree",
-? "roblox" *=2* "minecraft",
+\___ // BLACKLISTED \\ ___/!
+? HWID = "9832J-492H-OIUE87"
+
+\___ // REPLACEMENTS \\ ___/!
++ "hello" ==> "world"
++ "black" ==> "white"
++ "test" ==> "123"
++ "my life" ==> "my rules"
++ "star" ==> "⭐"
