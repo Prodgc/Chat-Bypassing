@@ -10,12 +10,15 @@
 ? HWID = "9832J-492H-OIUE87"
 
 \___ // REPLACEMENTS \\ ___/
-+ "hello" ==> "world"
-+ "black" ==> "white"
-+ "test" ==> "123"
-+ "my life" ==> "my rules"
-+ "WSPACE" ==> "\n"
-+ "star" ==> "⭐"
++ " " ==> ""  // EOT
++ "fuck" ==> "fu֓ck"
++ "shit" ==> "shi֓t"
++ "nigg" ==> "ni֓gg"
++ "imbecile" ==> "imbeci֓le"
++ "retard" ==> "r֓etard"
++ "cunt" ==> "cu֓nt"
++ "ass " ==> "a֓ss"
++ "sex" ==> "s֓ex"
 
 \___ // TAB PHRASES \\ ___/
 1# "ima phrase from sentence tab"
@@ -32,3 +35,6 @@
 - 1315686989638533224
 - 1320066248104607807
 - 1361387222925967430
+
+\___ // CURRENT METHOD \\ ___/
+֓
