@@ -1,0 +1,5 @@
+Key = "bacon21"
+__REP
+? "hello" *=2* "test",
+? "word" *=2* "tree",
+? "roblox" *=2* "minecraft",
