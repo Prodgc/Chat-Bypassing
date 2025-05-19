@@ -2,6 +2,10 @@
 ? Key_System = *TRUE*
 ? Key = "bacon21"  //ASCII
 
+\___ // SCRIPT INFO \\ ___/!
+? SV_version = "1.0.0"
+? SL_language = "slovenski"
+
 \___ // BLACKLISTED \\ ___/!
 ? HWID = "9832J-492H-OIUE87"
 
@@ -10,4 +14,5 @@
 + "black" ==> "white"
 + "test" ==> "123"
 + "my life" ==> "my rules"
++ "WSPACE" ==> "\n"
 + "star" ==> "⭐"
